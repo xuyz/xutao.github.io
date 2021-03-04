@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "deploy": "rdoc --publish <your repo url>",
-    "build": "rdoc -d home,introduce,faq,about,github --clean --build",
-    "start": "rdoc -d home,introduce,faq,about,github --clean"
+    "build": "rdoc -d index,introduce,服务治理,github --clean --build",
+    "start": "rdoc -d index,introduce,服务治理,github --clean"
   },
   "keywords": [
     "xuyz.github.io",
